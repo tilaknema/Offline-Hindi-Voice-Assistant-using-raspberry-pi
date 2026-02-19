@@ -1,0 +1,541 @@
+नमस्ते जी greeting
+नमस्ते बोल रहा हूँ greeting
+नमस्ते सुनिए greeting
+नमस्ते आज greeting
+नमस्ते शुरू करें greeting
+नमस्ते यहाँ greeting
+नमस्ते बताइए greeting
+नमस्ते सिस्टम greeting
+नमस्ते मदद greeting
+नमस्ते दोस्त greeting
+नमस्कार जी greeting
+नमस्कार सुनिए greeting
+नमस्कार आज greeting
+नमस्कार बोल रहा हूँ greeting
+नमस्कार शुरू करें greeting
+नमस्कार यहाँ greeting
+नमस्कार बताइए greeting
+नमस्कार सहायता greeting
+सुप्रभात जी greeting
+सुप्रभात आज greeting
+सुप्रभात सुनिए greeting
+सुप्रभात शुरू करें greeting
+सुप्रभात सिस्टम greeting
+सुप्रभात बताइए greeting
+सुप्रभात यहाँ greeting
+
+
+अलविदा जी goodbye
+अलविदा आज goodbye
+अलविदा अब goodbye
+अलविदा दोस्त goodbye
+अलविदा यहीं goodbye
+अलविदा चलता हूँ goodbye
+अलविदा फिर goodbye
+अलविदा अभी goodbye
+अलविदा बस goodbye
+विदा जी goodbye
+विदा अब goodbye
+विदा आज goodbye
+विदा यहाँ goodbye
+विदा चलता हूँ goodbye
+विदा दोस्त goodbye
+विदा फिर goodbye
+विदा यहीं goodbye
+विदा अभी goodbye
+फिर मिलेंगे जी goodbye
+फिर मिलेंगे आज goodbye
+फिर मिलेंगे दोस्त goodbye
+फिर मिलेंगे बाद में goodbye
+फिर मिलेंगे जल्दी goodbye
+फिर मिलेंगे यहीं goodbye
+फिर मिलेंगे अब goodbye
+
+
+समय क्या है time_query
+अभी समय time_query
+सही समय time_query
+वर्तमान समय time_query
+समय बताओ time_query
+मुझे समय time_query
+समय अभी time_query
+समय जल्दी time_query
+घड़ी समय time_query
+आज समय time_query
+टाइम क्या है time_query
+अभी टाइम time_query
+सही टाइम time_query
+टाइम बताओ time_query
+मुझे टाइम time_query
+टाइम अभी time_query
+टाइम जल्दी time_query
+आज टाइम time_query
+कितना बजा time_query
+अभी कितना बजा time_query
+सही बजा time_query
+बजा बताओ time_query
+घड़ी बजा time_query
+आज कितना बजा time_query
+अभी बजा time_query
+
+
+तारीख बताओ date_query
+सही तारीख date_query
+पूरी तारीख date_query
+तारीख दिखाओ date_query
+तारीख जांच date_query
+तारीख नंबर date_query
+तारीख सिस्टम date_query
+तारीख कैलेंडर date_query
+तारीख अपडेट date_query
+तारीख चाहिए date_query
+तारीख पुष्टि date_query
+तारीख रिकॉर्ड date_query
+तारीख विवरण date_query
+तारीख संकेत date_query
+तारीख स्थिति date_query
+डेट बताओ date_query
+सही डेट date_query
+पूरी डेट date_query
+डेट दिखाओ date_query
+डेट जांच date_query
+डेट नंबर date_query
+डेट सिस्टम date_query
+डेट कैलेंडर date_query
+डेट अपडेट date_query
+डेट पुष्टि date_query
+
+
+
+
+दिन बताओ day_query
+सही दिन day_query
+पूरा दिन day_query
+दिन दिखाओ day_query
+दिन जांच day_query
+दिन नाम day_query
+दिन सिस्टम day_query
+दिन कैलेंडर day_query
+दिन संकेत day_query
+दिन स्थिति day_query
+वार बताओ day_query
+सही वार day_query
+पूरा वार day_query
+वार दिखाओ day_query
+वार जांच day_query
+वार नाम day_query
+वार सिस्टम day_query
+वार कैलेंडर day_query
+वार संकेत day_query
+वार स्थिति day_query
+weekday बताओ day_query
+सही weekday day_query
+पूरा weekday day_query
+weekday दिखाओ day_query
+weekday जांच day_query
+
+
+धन्यवाद जी thank_you
+धन्यवाद दोस्त thank_you
+धन्यवाद अभी thank_you
+धन्यवाद आज thank_you
+धन्यवाद बहुत thank_you
+धन्यवाद आपको thank_you
+धन्यवाद सही thank_you
+धन्यवाद मदद thank_you
+धन्यवाद बस thank_you
+धन्यवाद यहाँ thank_you
+धन्यवाद अच्छा thank_you
+धन्यवाद जल्दी thank_you
+शुक्रिया जी thank_you
+शुक्रिया दोस्त thank_you
+शुक्रिया अभी thank_you
+शुक्रिया आज thank_you
+शुक्रिया बहुत thank_you
+शुक्रिया आपको thank_you
+शुक्रिया सही thank_you
+शुक्रिया मदद thank_you
+शुक्रिया बस thank_you
+शुक्रिया यहाँ thank_you
+शुक्रिया अच्छा thank_you
+शुक्रिया जल्दी thank_you
+बहुत धन्यवाद thank_you
+
+
+आपातकाल अभी emergency
+आपातकाल जी emergency
+आपातकाल जल्दी emergency
+आपातकाल तुरंत emergency
+आपातकाल यहाँ emergency
+आपातकाल सुनिए emergency
+आपातकाल सहायता emergency
+आपातकाल जरूरी emergency
+मदद चाहिए emergency
+मदद अभी emergency
+मदद जल्दी emergency
+मदद तुरंत emergency
+मदद जी emergency
+मदद यहाँ emergency
+मदद सुनिए emergency
+मदद चाहिए अभी emergency
+मदद चाहिए जल्दी emergency
+हेल्पलाइन नंबर emergency
+हेल्पलाइन अभी emergency
+हेल्पलाइन जल्दी emergency
+हेल्पलाइन बताओ emergency
+हेल्पलाइन जी emergency
+हेल्पलाइन यहाँ emergency
+हेल्पलाइन तुरंत emergency
+हेल्पलाइन सहायता emergency
+
+
+समझ नहीं आया unknown
+कुछ गड़बड़ unknown
+सही नहीं unknown
+क्या लिखूँ unknown
+पता नहीं unknown
+गलत बोल दिया unknown
+समझ नहीं पा रहा unknown
+कन्फ्यूजन है unknown
+अधूरा है unknown
+यह क्या unknown
+ठीक नहीं लगा unknown
+याद नहीं unknown
+स्पष्ट नहीं unknown
+सवाल अधूरा unknown
+बात गलत unknown
+शब्द नहीं मिल रहा unknown
+क्या कहूँ unknown
+इनपुट गलत unknown
+समझ से बाहर unknown
+कुछ अजीब unknown
+ठीक से नहीं unknown
+गलत टाइप unknown
+बन नहीं रहा unknown
+समझ नहीं रहा unknown
+यह स्पष्ट नहीं unknown
+
+
+बुखार है fever_info
+हल्का बुखार fever_info
+तेज बुखार fever_info
+आज बुखार fever_info
+अभी बुखार fever_info
+सुबह बुखार fever_info
+शाम बुखार fever_info
+बुखार ज्यादा fever_info
+बार बार बुखार fever_info
+लगातार बुखार fever_info
+बुखार लग रहा fever_info
+थोड़ा बुखार fever_info
+शरीर गर्म fever_info
+बहुत शरीर गर्म fever_info
+आज शरीर गर्म fever_info
+अभी शरीर गर्म fever_info
+सुबह शरीर गर्म fever_info
+शाम शरीर गर्म fever_info
+शरीर गर्म लग रहा fever_info
+हल्का शरीर गर्म fever_info
+ज्यादा शरीर गर्म fever_info
+पूरा शरीर गर्म fever_info
+अचानक शरीर गर्म fever_info
+शरीर गर्म अभी fever_info
+शरीर गर्म आज fever_info
+
+
+सर्दी है cold_cough_info
+हल्की सर्दी cold_cough_info
+आज सर्दी cold_cough_info
+अभी सर्दी cold_cough_info
+सुबह सर्दी cold_cough_info
+शाम सर्दी cold_cough_info
+नाक सर्दी cold_cough_info
+ज्यादा सर्दी cold_cough_info
+लगातार सर्दी cold_cough_info
+बार बार सर्दी cold_cough_info
+सर्दी लग रही cold_cough_info
+पुरानी सर्दी cold_cough_info
+खांसी है cold_cough_info
+सूखी खांसी cold_cough_info
+तेज खांसी cold_cough_info
+आज खांसी cold_cough_info
+अभी खांसी cold_cough_info
+सुबह खांसी cold_cough_info
+शाम खांसी cold_cough_info
+लगातार खांसी cold_cough_info
+बार बार खांसी cold_cough_info
+खांसी आ रही cold_cough_info
+पुरानी खांसी cold_cough_info
+हल्की खांसी cold_cough_info
+ज्यादा खांसी cold_cough_info
+
+
+सिर दर्द है headache_info
+हल्का सिर दर्द headache_info
+तेज सिर दर्द headache_info
+आज सिर दर्द headache_info
+अभी सिर दर्द headache_info
+सुबह सिर दर्द headache_info
+शाम सिर दर्द headache_info
+लगातार सिर दर्द headache_info
+बार बार सिर दर्द headache_info
+सिर दर्द ज्यादा headache_info
+सिर दर्द लग रहा headache_info
+सिर दर्द अभी headache_info
+सर दर्द है headache_info
+हल्का सर दर्द headache_info
+तेज सर दर्द headache_info
+आज सर दर्द headache_info
+अभी सर दर्द headache_info
+सुबह सर दर्द headache_info
+शाम सर दर्द headache_info
+लगातार सर दर्द headache_info
+बार बार सर दर्द headache_info
+सर दर्द ज्यादा headache_info
+सर दर्द लग रहा headache_info
+थोड़ा सर दर्द headache_info
+पुराना सर दर्द headache_info
+
+
+एसिडिटी है acidity_info
+हल्की एसिडिटी acidity_info
+आज एसिडिटी acidity_info
+अभी एसिडिटी acidity_info
+सुबह एसिडिटी acidity_info
+शाम एसिडिटी acidity_info
+ज्यादा एसिडिटी acidity_info
+बार बार एसिडिटी acidity_info
+एसिडिटी लग रही acidity_info
+पुरानी एसिडिटी acidity_info
+सीने में जलन acidity_info
+हल्की सीने में जलन acidity_info
+आज सीने में जलन acidity_info
+अभी सीने में जलन acidity_info
+सुबह सीने में जलन acidity_info
+शाम सीने में जलन acidity_info
+ज्यादा सीने में जलन acidity_info
+लगातार सीने में जलन acidity_info
+खट्टी डकार acidity_info
+बार बार खट्टी डकार acidity_info
+आज खट्टी डकार acidity_info
+अभी खट्टी डकार acidity_info
+सुबह खट्टी डकार acidity_info
+शाम खट्टी डकार acidity_info
+ज्यादा खट्टी डकार acidity_info
+
+दस्त है motion_info
+हल्के दस्त motion_info
+आज दस्त motion_info
+अभी दस्त motion_info
+सुबह दस्त motion_info
+शाम दस्त motion_info
+बार बार दस्त motion_info
+ज्यादा दस्त motion_info
+लगातार दस्त motion_info
+अचानक दस्त motion_info
+पेट खराब motion_info
+आज पेट खराब motion_info
+अभी पेट खराब motion_info
+सुबह पेट खराब motion_info
+शाम पेट खराब motion_info
+हल्का पेट खराब motion_info
+ज्यादा पेट खराब motion_info
+लगातार पेट खराब motion_info
+लूज मोशन motion_info
+आज लूज मोशन motion_info
+अभी लूज मोशन motion_info
+सुबह लूज मोशन motion_info
+शाम लूज मोशन motion_info
+बार बार लूज मोशन motion_info
+ज्यादा लूज मोशन motion_info
+
+
+थकान है weakness_symptom
+हल्की थकान weakness_symptom
+ज्यादा थकान weakness_symptom
+लगातार थकान weakness_symptom
+थकान महसूस weakness_symptom
+काम में थकान weakness_symptom
+चलते थकान weakness_symptom
+शरीर थकान weakness_symptom
+सुस्ती थकान weakness_symptom
+थोड़ी थकान weakness_symptom
+थकावट है weakness_symptom
+हल्की थकावट weakness_symptom
+ज्यादा थकावट weakness_symptom
+लंबी थकावट weakness_symptom
+थकावट लग रही weakness_symptom
+पूरी थकावट weakness_symptom
+दिनभर थकावट weakness_symptom
+बार बार थकावट weakness_symptom
+कमजोरी है weakness_symptom
+हल्की कमजोरी weakness_symptom
+ज्यादा कमजोरी weakness_symptom
+चलने में कमजोरी weakness_symptom
+शरीर कमजोरी weakness_symptom
+लगातार कमजोरी weakness_symptom
+थोड़ी कमजोरी weakness_symptom
+
+नई फसल उगाना crop_info
+गेहूं बोनी crop_info
+धान कटाई crop_info
+सोयाबीन उगाना crop_info
+किसान बोनी crop_info
+खेती कटाई crop_info
+मौसम उगाना crop_info
+बीज बोनी crop_info
+कम पानी उगाना crop_info
+मिट्टी बोनी crop_info
+रबी कटाई crop_info
+खरीफ बोनी crop_info
+गर्मी उगाना crop_info
+सर्दी बोनी crop_info
+फसल उगाना crop_info
+फसल बोनी crop_info
+फसल कटाई crop_info
+अच्छी उगाना crop_info
+कम पानी बोनी crop_info
+बारिश उगाना crop_info
+योजना बोनी crop_info
+मदद कटाई crop_info
+गांव उगाना crop_info
+जल्दी कटाई crop_info
+नई जमीन बोनी crop_info
+
+
+खाद डालना fertilizer_info
+खाद मात्रा fertilizer_info
+खाद संतुलन fertilizer_info
+खाद समय fertilizer_info
+खाद कितनी fertilizer_info
+यूरिया डालना fertilizer_info
+डीएपी मात्रा fertilizer_info
+गोबर डालना fertilizer_info
+मिट्टी संतुलन fertilizer_info
+खाद जरूरत fertilizer_info
+खाद असर fertilizer_info
+खाद नियम fertilizer_info
+खाद कब fertilizer_info
+सही संतुलन fertilizer_info
+कम ज्यादा मात्रा fertilizer_info
+खाद विधि fertilizer_info
+खेत संतुलन fertilizer_info
+मिट्टी डालना fertilizer_info
+पौधा संतुलन fertilizer_info
+सही उपयोग fertilizer_info
+खाद सलाह fertilizer_info
+खाद योजना fertilizer_info
+तेजी डालना fertilizer_info
+लाइन डालना fertilizer_info
+बराबर संतुलन fertilizer_info
+
+
+
+कीड़े नुकसान pest_problem
+पत्तों हमला pest_problem
+छोटे कीड़े pest_problem
+जड़ हमला pest_problem
+तना कीड़े pest_problem
+रोक उपाय pest_problem
+खत्म रोक pest_problem
+नियंत्रण रोक pest_problem
+उड़ते हमला pest_problem
+रेंगते नुकसान pest_problem
+दवा रोक pest_problem
+तेज हमला pest_problem
+पहचान नुकसान pest_problem
+फैल हमला pest_problem
+पत्ते नुकसान pest_problem
+कीड़े रोक pest_problem
+बीमारी हमला pest_problem
+खेत नुकसान pest_problem
+जाल रोक pest_problem
+असर नुकसान pest_problem
+रोक समाधान pest_problem
+जांच हमला pest_problem
+प्रबंधन रोक pest_problem
+भारी नुकसान pest_problem
+कीड़े समस्या pest_problem
+
+
+लाइट गई electricity_info
+लाइट बंद electricity_info
+लाइट कब electricity_info
+लाइट समस्या electricity_info
+लाइट नहीं electricity_info
+लाइट अपडेट electricity_info
+लाइट चालू electricity_info
+लाइट जानकारी electricity_info
+लाइट सप्लाई electricity_info
+लाइट कट electricity_info
+बिजली गई electricity_info
+बिजली बंद electricity_info
+बिजली कब electricity_info
+बिजली समस्या electricity_info
+बिजली नहीं electricity_info
+बिजली अपडेट electricity_info
+बिजली चालू electricity_info
+बिजली जानकारी electricity_info
+बिजली सप्लाई electricity_info
+बिजली कट electricity_info
+बिजली लाइन electricity_info
+बिजली विभाग electricity_info
+लाइट समय electricity_info
+बिजली समय electricity_info
+लाइट सेवा electricity_info
+
+
+पानी नहीं water_problem
+पानी बंद water_problem
+पानी कम water_problem
+पानी समस्या water_problem
+पानी सप्लाई water_problem
+पानी लाइन water_problem
+पानी दबाव water_problem
+पानी गंदा water_problem
+पानी टंकी water_problem
+पानी रिसाव water_problem
+नल पानी water_problem
+नल सूखा water_problem
+नल दबाव water_problem
+हैंडपंप पानी water_problem
+हैंडपंप खराब water_problem
+पाइप पानी water_problem
+पाइप टूटा water_problem
+पानी व्यवस्था water_problem
+पानी शिकायत water_problem
+पानी कनेक्शन water_problem
+पानी वितरण water_problem
+पानी सेवा water_problem
+पानी समस्या बड़ी water_problem
+पानी जांच water_problem
+पानी समाधान water_problem
+
+
+दस्तावेज बनवाना document_help
+दस्तावेज नया document_help
+दस्तावेज सुधार document_help
+दस्तावेज गलती document_help
+दस्तावेज नाम सुधार document_help
+दस्तावेज पता बदल document_help
+दस्तावेज जानकारी document_help
+दस्तावेज जमा document_help
+दस्तावेज जांच document_help
+दस्तावेज आवेदन document_help
+कार्ड बनवाना document_help
+नया कार्ड document_help
+कार्ड अपडेट document_help
+कार्ड सुधार document_help
+कार्ड नाम बदल document_help
+कार्ड पता बदल document_help
+कार्ड जानकारी document_help
+कार्ड आवेदन document_help
+कार्ड स्थिति document_help
+कार्ड नहीं मिला document_help
+दस्तावेज खो गया document_help
+कार्ड खो गया document_help
+दस्तावेज समस्या document_help
+कार्ड समस्या document_help
+दस्तावेज सहायता document_help
+
+
